@@ -1,0 +1,8 @@
+name=input("Enter your name ")
+program=input("Enter your program ")
+institution=input("Enter the name of your institution ")
+department=input("Enter the name of your department ")
+indexNumber=input("Enter your index number ")
+age =int(input("Enter your age"))
+fees=float(input("Enter your fees "))
+print(f"Hello {name}, Welcome to {institution}. You've been offered an admission to pursue {program}")
